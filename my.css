@@ -1,0 +1,154 @@
+.main-cotainer{
+    background-color:#000000;
+  
+    overflow: hidden;
+}
+.about-me-container{
+     background-color:#000000;
+  
+    overflow: hidden;
+}
+.biodata-container{
+    background-color:#000000;
+  height:40vh;
+    overflow: hidden;
+}
+.contact-container{
+     background-color:#000000;
+ 
+    overflow: hidden;
+}
+.Services-container{
+    height:60vh;
+     background-color:#000000;
+  
+    overflow: hidden;
+}
+.main-carousal-container{
+    background-color: #000000;
+    border-radius: 10px;
+    box-shadow: 0 0 10px aqua ,  0 0 15px aqua , 0 0 20px aqua;
+}
+.image-container{
+    height:100vh;
+    
+    transition: transform ease;
+  
+}
+.image-container:hover{
+    transform: scale(1.01);
+}
+.round{
+    border-radius:100px ;
+}
+.nav-container{
+    background-color: #000000;
+    box-shadow: 0 0 10px aqua,0 0 15px aqua,0 0 20px aqua;
+}
+.tx{
+    color:rgb(23, 248, 233);
+    font-weight: 500;
+
+}
+.search-button{
+   
+   
+   transition: transform ease;
+   
+}
+.search-button:hover{
+    transform: scale(1.1);
+}
+.home-container{
+    height:100vh;
+    
+
+}
+.hai-container{
+    height:100vh;
+    
+}
+h1{
+    font-family: "Roboto";
+    font-weight: bold;
+}
+.main-heading {
+    background: linear-gradient(to right, #e1f836, #2df677, #2EC4B2, #1f26ed);
+     background-size: 50%;
+    background-clip: text;
+      -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+   
+}
+.skill-container{
+    text-align: center;
+    background-color: #000000;
+}
+.sub-skill-container{
+    height:40vh;
+    background-color: #0d2927;
+    border-radius: 5px;
+    
+}
+.arow-container{
+    background-color: #27413f;
+    height:6vh;
+    width:3vw;
+}
+.icon-container1{
+    height:15vh;
+}
+.small-image-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/premium-vector/analysis-database-management_999616-1081.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+    
+}
+
+.small-image1-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/premium-photo/person-sits-front-computer-with-words-macbook-screen_1274915-424.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+.small-image2-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/free-photo/programming-background-with-person-working-with-codes-computer_23-2150010130.jpg?ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+
+.small-image4-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/premium-vector/vector-programmer-coding-software-development-concept-developer-engineer-coding-with-laptop-sit_939213-259.jpg?uid=R164016654&ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+.small-image5-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/premium-photo/artificial-intelligence-chatbot-is-helping-programmers-write-source-code-3d-rendering_651547-2448.jpg?uid=R164016654&ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+.small-image6-container{
+    height:18vh;
+    border-radius: 6px;
+    background-image: url("https://img.freepik.com/premium-photo/advanced-c-programming-strategies_810293-19666.jpg?uid=R164016654&ga=GA1.1.1697017442.1726662171&semt=ais_hybrid&w=740");
+    background-size: cover;
+}
+.name-conayiner{
+    height:7vh;
+    width:60vw;
+    background-color:rgb(231, 228, 228) ;
+    
+    border-radius: 8px;
+}
+
+.meas-conayiner{
+     height:13vh;
+    width:60vw;
+    background-color:rgb(227, 224, 224) ;
+    
+    border-radius: 8px;
+}
